@@ -1,5 +1,5 @@
 {
-  "extension":"/zeus/sites/extensions/sites",
-  "extension-point":"/zeus/sites/extension_points/cockpit",
+  "extension":"/zeus/sites/extensions/cockpit_sites",
+  "extension-point":"/zeus/cockpit/extension_point/cockpit",
   "description":"Develop extension for the Cockpit extension point"
 }
